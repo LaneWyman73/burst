@@ -1,1 +1,1 @@
-new Typed('#typed',{strings:[,'resignation#0001 ^_^','Kate my little girl.. 💘💘','owner @ bladi', '#DG', 'Throughout Heaven and Earth, I Alone Am The Honored One'],typeSpeed:35,delaySpeed:90,showCursor:true,loop:true})
+new Typed('#typed',{strings:[,'resignation#0001 ^_^','Kate my little girl.. 💘💘','owner @ bladi', '#TRIBUTE', 'Throughout Heaven and Earth, I Alone Am The Honored One'],typeSpeed:35,delaySpeed:90,showCursor:true,loop:true})
