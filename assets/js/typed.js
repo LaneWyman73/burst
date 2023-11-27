@@ -1,0 +1,1 @@
+new Typed('#typed',{strings:[,'resignation#0001','Kate my little girl.. 💘💘','owner @ bladi', '#DG'],typeSpeed:35,delaySpeed:90,showCursor:true,loop:true})
